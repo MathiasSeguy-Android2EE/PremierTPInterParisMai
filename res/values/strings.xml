@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PremierTP</string>
+    <string name="action_settings">Settings</string>
+     <string name="btn_add">Press to add</string>
+    <string name="edt_dosomething">Enter a text</string>
+    <string name="hello_world">Hello world toto!</string>
+
+</resources>
